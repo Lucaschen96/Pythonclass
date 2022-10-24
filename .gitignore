@@ -1,0 +1,9 @@
+# Project exclude paths
+/venv/
+/sting.py
+/word_count_YuningChen.py
+/wordcount.txt
+/main.py
+/hello.py
+
+
